@@ -26,13 +26,13 @@ Este repositorio está diseñado para:
 2. Clona este repositorio en tu máquina local:
 
    ```
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/MushhDev/MushhVideoTools.git
    ```
 
 3. Navega a la carpeta del proyecto y ejecuta el archivo Python deseado:
 
    ```
-   cd nombre-del-proyecto
+   cd MushhVideoTools
    python nombre-del-archivo.py
    ```
 
